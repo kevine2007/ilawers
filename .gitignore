@@ -1,11 +1,13 @@
 # Fichiers de données brutes
-data/raw/
+ai-engine/data/raw/
 
 # Embeddings générés (peuvent être régénérés)
-data/processed/embeddings.npy
-data/processed/chunk_embeddings.npy
+ai-engine/data/processed/
 
 # Environnements virtuels
+ai-engine/.venv/
+ai-engine/venv/
+ai-engine/env/
 .venv/
 venv/
 env/
