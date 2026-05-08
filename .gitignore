@@ -1,0 +1,18 @@
+# Fichiers de données brutes
+data/raw/
+
+# Embeddings générés (peuvent être régénérés)
+data/processed/embeddings.npy
+data/processed/chunk_embeddings.npy
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Clés API (sécurisé)
+api_key.txt
